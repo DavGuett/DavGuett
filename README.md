@@ -1,10 +1,10 @@
 # SOBRE MIM
 👋 Olá! Meu nome é David, tenho 20 anos e sou um desenvolvedor localizado em Itajaí, Santa Catarina.  
 Atualmente faço faculdade na UNIVALI onde estou cursando Análise e Desenvolvimento de Sistemas.
-- 👀 Tenho interesse em tecnologia no geral; hardware e software.
-- 🌱 Atualmente estou aprendendo por conta própria C# depois de ter me interessado pelo ecossistema dotnet, mas também estudo HTML, CSS e JS.
+- 👀 Tenho interesse em tecnologia desde pequeno após ganhar meu primeiro computador e desde então, vivo sempre imerso no mundo da internet. Em tempos recentes, adquiri um interesse pela programação e decidi levar isso como uma carreira.
+- 🌱 Atualmente estou aprendendo por conta própria C# depois de ter me interessado pelo ecossistema DotNet, mas também estudo HTML, CSS e JS.
 - 💞️ Estou aberto a colaborar em quaisquer projetos disponíveis.
-- 📫 How to reach me ...
+- 📫 Estou disponível através do [LinkedIn](https://www.linkedin.com/in/davidguetten/)
 
 <!---
 DavGuett/DavGuett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
