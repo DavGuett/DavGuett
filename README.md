@@ -6,6 +6,8 @@ No momento, faço faculdade na UNIVALI, onde estou cursando Análise e Desenvolv
 - 💞️ Estou aberto a colaborar em quaisquer projetos disponíveis.
 - 📫 Estou disponível através do [LinkedIn](https://www.linkedin.com/in/davidguetten/)
 
+<a href="https://app.daily.dev/DavGuett"><img src="https://api.daily.dev/devcards/7b4140808d634f73b99f4e61e35a5082.png?r=r2h" width="400" alt="David's Dev Card"/></a>
+
 <!---
 DavGuett/DavGuett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
