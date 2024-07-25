@@ -1,10 +1,10 @@
 # SOBRE MIM
 👋 Olá! Meu nome é David, tenho 22 anos, e sou um desenvolvedor localizado em Santa Catarina.  
-No momento, faço faculdade na UNIVALI, onde estou cursando Análise e Desenvolvimento de Sistemas.
+Sou graduado em Análise e Desenvolvimento de Sistemas pela UNIVALI.
 - 👀 Desenvolvi certa curiosidade em tecnologia quando pequeno, após ganhar meu primeiro computador. Desde então, vivo sempre imerso no mundo da internet. O interesse pela programação veio com o passar do tempo, e decidi levar isso como carreira.
 - 🌱 Atualmente estou aprendendo Java por conta própria mas também estudo HTML, CSS e JS por conta do interesse pelo desenvolvimento web.
 - 💞️ Estou aberto a colaborar em quaisquer projetos disponíveis.
-- 📫 Estou disponível através do [LinkedIn](https://www.linkedin.com/in/davidguetten/)
+- 📫 Estou disponível através do [LinkedIn](https://www.linkedin.com/in/davidguetten/) e via [e-mail](mailto:david@davguett.dev)
 
 <a href="https://app.daily.dev/DavGuett"><img src="https://api.daily.dev/devcards/7b4140808d634f73b99f4e61e35a5082.png?r=r2h" width="400" alt="David's Dev Card"/></a>
 
