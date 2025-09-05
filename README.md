@@ -1,8 +1,8 @@
 # SOBRE MIM
-👋 Olá! Meu nome é David, tenho 22 anos, e sou um desenvolvedor localizado em Santa Catarina.  
+👋 Olá! Meu nome é David, tenho 23 anos, e sou um desenvolvedor localizado em Santa Catarina.  
 Sou graduado em Análise e Desenvolvimento de Sistemas pela UNIVALI.
 - 👀 Desenvolvi certa curiosidade em tecnologia quando pequeno, após ganhar meu primeiro computador. Desde então, vivo sempre imerso no mundo da internet. O interesse pela programação veio com o passar do tempo, e decidi levar isso como carreira.
-- 🌱 Atualmente estou aprendendo .NET por conta própria mas também estudo HTML, CSS e JS por conta do interesse pelo desenvolvimento web.
+- 🌱 Trabalho atualmente como desenvolvedor fullstack usando .NET, VueJS e PostgreSQL, mas também possuo conhecimento em infraestrutura de TI, redes e monitoramento.
 - 💞️ Estou aberto a colaborar em quaisquer projetos disponíveis.
 - 📫 Estou disponível através do [LinkedIn](https://www.linkedin.com/in/davidguetten/) e via [e-mail](mailto:david@davguett.dev)
 
