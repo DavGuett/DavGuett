@@ -1,5 +1,5 @@
 # SOBRE MIM
-👋 Olá! Meu nome é David, tenho 23 anos, e sou um desenvolvedor localizado em Santa Catarina.  
+👋 Olá! Meu nome é David e sou um desenvolvedor localizado em Santa Catarina.  
 Sou graduado em Análise e Desenvolvimento de Sistemas pela UNIVALI.
 - 👀 Desenvolvi certa curiosidade em tecnologia quando pequeno, após ganhar meu primeiro computador. Desde então, vivo sempre imerso no mundo da internet. O interesse pela programação veio com o passar do tempo, e decidi levar isso como carreira.
 - 🌱 Trabalho atualmente como desenvolvedor fullstack usando .NET, VueJS e PostgreSQL, mas também possuo conhecimento em infraestrutura de TI, redes e monitoramento.
